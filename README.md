@@ -1,6 +1,6 @@
 # Learning Probability Density Functions using data only 📊
 
-**Assignment-2**  
+**Assignment-4**  
 **UCS654**
 
 _Submitted by:_  
